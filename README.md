@@ -24,29 +24,18 @@
 
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://github.com/Mahdiiye/Mahdiiye/blob/main/Image/avatar.gif?raw=true" />
 </div>
 
-
-
-
-
 ###
-
 <h3 align="left"></h3>
-
-###
 
 <p align="left"></p>
 
-###
-
 <h3 align="left"></h3>
 
-###
+<div align="left"></div>
 
-<div align="left">
-</div>
 
 ###
 
